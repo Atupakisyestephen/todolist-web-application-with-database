@@ -6,11 +6,11 @@ Default List: A predefined "Today" list with default tasks.<br />
 Custom Lists: Create custom todo lists by typing a unique name in the URL.<br />
 Add/Delete Tasks: Add tasks to any list and delete them upon completion.<br />
 
-Technologies Used
-Backend: Node.js, Express
-Frontend: EJS (Embedded JavaScript templating)
-Database: MongoDB (local or cloud-based with MongoDB Atlas)
-Other: Body-parser for handling form data, Lodash for utility functions
+Technologies Used<br />
+Backend: Node.js, Express<br />
+Frontend: EJS (Embedded JavaScript templating)<br />
+Database: MongoDB (local or cloud-based with MongoDB Atlas)<br />
+Other: Body-parser for handling form data, Lodash for utility functions<br />
 
 ![1](https://github.com/user-attachments/assets/488ac07b-a339-495c-9cc4-b3b07b42ef89)
 ![2](https://github.com/user-attachments/assets/47126c17-9dfa-46fa-8829-a5674e5b3e85)
