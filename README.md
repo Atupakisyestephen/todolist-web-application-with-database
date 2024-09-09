@@ -1,10 +1,10 @@
 # todolist-web-application-with-database
-This is a simple web-based Todo List application built using Node.js, Express, EJS, and MongoDB. The app allows users to create custom todo lists, add items to them, and delete completed tasks.
+This is a simple web-based Todo List application built using Node.js, Express, EJS, and MongoDB. The app allows users to create custom todo lists, add items to them, and delete completed tasks.<br />
 
-Features
-Default List: A predefined "Today" list with default tasks.
-Custom Lists: Create custom todo lists by typing a unique name in the URL.
-Add/Delete Tasks: Add tasks to any list and delete them upon completion.
+Features<br />
+Default List: A predefined "Today" list with default tasks.<br />
+Custom Lists: Create custom todo lists by typing a unique name in the URL.<br />
+Add/Delete Tasks: Add tasks to any list and delete them upon completion.<br />
 
 Technologies Used
 Backend: Node.js, Express
