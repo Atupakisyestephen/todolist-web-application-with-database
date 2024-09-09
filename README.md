@@ -22,8 +22,10 @@ MongoDB (Either a local instance or MongoDB Atlas)
 
 Installation
 1.Clone the repository:
+git clone https://github.com/Atupakisyestephen/todolist-web-application-with-database.git
 
 2.Navigate to the project directory:
+cd todolist-web-application-with-database-main
 
 3.Install dependencies:
 npm install
