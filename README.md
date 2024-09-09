@@ -15,39 +15,39 @@ Other: Body-parser for handling form data, Lodash for utility functions<br />
 ![1](https://github.com/user-attachments/assets/488ac07b-a339-495c-9cc4-b3b07b42ef89)
 ![2](https://github.com/user-attachments/assets/47126c17-9dfa-46fa-8829-a5674e5b3e85)
 
-Getting Started
-Prerequisites
-Node.js
-MongoDB (Either a local instance or MongoDB Atlas)
+Getting Started<br />
+Prerequisites<br />
+Node.js<br />
+MongoDB (Either a local instance or MongoDB Atlas)<br />
 
-Installation
-1.Clone the repository:
-git clone https://github.com/Atupakisyestephen/todolist-web-application-with-database.git
+Installation<br />
+1.Clone the repository:<br />
+git clone https://github.com/Atupakisyestephen/todolist-web-application-with-database.git<br />
 
-2.Navigate to the project directory:
-cd todolist-web-application-with-database-main
+2.Navigate to the project directory:<br />
+cd todolist-web-application-with-database-main<br />
 
-3.Install dependencies:
-npm install
+3.Install dependencies:<br />
+npm install<br />
 
-4.Set up MongoDB:
-Ensure MongoDB is running locally on mongodb://localhost:27017/todolistDB.
-Alternatively, for MongoDB Atlas, update the MongoDB connection string in app.js:
-mongoose.connect("your-mongodb-connection-string");
+4.Set up MongoDB:<br />
+Ensure MongoDB is running locally on mongodb://localhost:27017/todolistDB.<br />
+Alternatively, for MongoDB Atlas, update the MongoDB connection string in app.js:<br />
+mongoose.connect("your-mongodb-connection-string");<br />
 
-Running the Application
-1.Start the server:
-node app.js
+Running the Application<br />
+1.Start the server:<br />
+node app.js<br />
 
-2.Open your browser and visit:
-http://localhost:3000
+2.Open your browser and visit:<br />
+http://localhost:3000<br />
 
-Usage
-Visit the home page to see the default "Today" list.
-To create a custom list, navigate to:
-http://localhost:3000/your-list-name
-Add items using the input field.
-Delete items by checking them off.
+Usage<br />
+Visit the home page to see the default "Today" list.<br />
+To create a custom list, navigate to:<br />
+http://localhost:3000/your-list-name<br />
+Add items using the input field.<br />
+Delete items by checking them off.<br />
 
-License
+License<br />
 This project is licensed under the MIT License
